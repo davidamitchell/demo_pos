@@ -1,0 +1,9 @@
+#pos_app.filter-active #basket_list .completed,
+#pos_app.filter-completed #basket_list .active {
+	display: none;
+}
+
+#main,
+#footer {
+	display: none;
+}
