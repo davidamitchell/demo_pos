@@ -6,6 +6,7 @@ router.get('/', function(req, res, next) {
   var collection = [
   {'name':'bob'},
   {'name':'bob'},
+  {'name':'john'},
   ];
 
   res.render('index', {
